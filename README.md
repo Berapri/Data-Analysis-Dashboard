@@ -1,2 +1,2 @@
-# Data-Analysis-Dashboard
-I developed a comprehensive project in Power BI, creating  dashboard to analyze the data. This process involved several stages, including data processing and data visualization.
+# 💳 Power BI Project: Credit Card Fraud Risk Analysis
+ In this Power BI project,I dive into analyzing credit card transactions to uncover fraud patterns, assess risks, and build an interactive dashboard that supports real-time decision-making.
